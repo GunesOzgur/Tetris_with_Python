@@ -1,7 +1,7 @@
 # Tetris_with_Python
 Tetris game written via Python
 
-This project consists of 6 modules and 1 source folder
+This project consists of 6 modules and 1 source folder.
 These modules are:
   - TetrisMain
   - Board
